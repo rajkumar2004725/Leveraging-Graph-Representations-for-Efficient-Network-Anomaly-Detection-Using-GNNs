@@ -1,0 +1,2 @@
+# Leveraging-Graph-Representations-for-Efficient-Network-Anomaly-Detection-Using-GNNs
+This repository implements a semi-supervised anomaly detection method in graph-structured data using Graph Convolutional Networks (GCNs). It integrates feature-based clustering, similarity-driven edge weights, and GCN-based node embeddings to identify complex patterns and outliers, ensuring adaptability across datasets and applications.
