@@ -8,8 +8,13 @@ Once the graph is constructed, the framework utilizes a GCN-based architecture t
 By blending feature-based clustering with GCN-driven learning, this method achieves high accuracy in anomaly detection. The model is capable of identifying subtle, complex patterns and outliers, making it suitable for applications in fraud detection, network security, social network analysis, and more.
 
 Features:
+
 Semi-Supervised Learning: Combines labelled data with unsupervised generalization.
+
 Graph Construction: Builds graphs using clustering algorithms and similarity-driven edge weights.
+
 GCN Architecture: Learns node embeddings with a focus on structural and feature-based information.
+
 Flexible Application: Adapts to various datasets and domains with consistent performance.
+
 This repository offers an innovative solution for graph-based anomaly detection, leveraging the power of GCNs to address challenges where traditional methods often fall short.
