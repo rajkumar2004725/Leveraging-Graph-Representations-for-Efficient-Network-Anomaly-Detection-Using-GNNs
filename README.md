@@ -1,4 +1,4 @@
-# Leveraging-Graph-Representations-for-Efficient-Network-Anomaly-Detection-Using-GNNs
+# Leveraging-Graph-Representations-for-Efficient-Network-Anomaly-Detection-Using-GCNs
 This repository implements a semi-supervised approach for detecting anomalies in graph-structured data by leveraging the capabilities of Graph Convolutional Networks (GCNs). By combining graph representation techniques with machine learning algorithms, this methodology effectively captures both node-specific features and intrinsic relationships within graph structures. The approach is robust in identifying complex node dependencies and connections, providing a powerful framework for anomaly detection where traditional methods often fail.
 
 The process begins with feature engineering to extract relevant node attributes and normalize them into graph inputs. Clustering algorithms such as DBSCAN are employed to group similar data points, which are then used to form graph edges based on proximity. Edge weights are further refined using similarity-driven metrics, emphasizing significant connections while minimizing the impact of weaker, less meaningful links.
